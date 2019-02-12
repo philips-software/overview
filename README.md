@@ -5,27 +5,31 @@
 ## Purpose
 Overview with groups of projects and its repositories
 
-- Digital Trust - https://github.com/orgs/philips-software/teams/digital-trust/repositories
+- [Digital Trust](https://github.com/orgs/philips-software/teams/digital-trust/repositories)
   - Cogito
-- Docker Images - https://github.com/orgs/philips-software/teams/docker-images/repositories
+- [Docker Images](https://github.com/orgs/philips-software/teams/docker-images/repositories)
   - bats
   - goss
   - openjdk
   - scala
-- Documentation Templates - https://github.com/orgs/philips-software/teams/documentation-templates/repositories
+- [Documentation Templates](https://github.com/orgs/philips-software/teams/documentation-templates/repositories)
   - docs-as-code
-- Frontend Developer - https://github.com/orgs/philips-software/teams/frontend-developer/repositories
+- [Frontend Developer](https://github.com/orgs/philips-software/teams/frontend-developer/repositories)
   - react-cross-client-router
   - restdouble
-- TFS - Plugin - https://github.com/orgs/philips-software/teams/gherkin2mtm/repositories
-  - gherkin2mtm
-- HSDP Utilities - https://github.com/orgs/philips-software/teams/hsdp-utilities/repositories
+- [HSDP Utilities](https://github.com/orgs/philips-software/teams/hsdp-utilities/repositories)
   - go-hsdp-api
   - go-hsdp-signer
   - terraform-provider-hsdp
-- IAF - https://github.com/orgs/philips-software/teams/iaf/repositories
+- [IAF](https://github.com/orgs/philips-software/teams/iaf/repositories)
   - IAF
-- Terraform Modules - https://github.com/orgs/philips-software/teams/terraform-modules-maintainers/repositories
+- [Interoperability](https://github.com/PhilipsOnFhir)
+  - fhir-cast
+  - fhir-proxy
+  - fhir-2-angular
+  - Intellij-CQL-SyntaxHighlighter
+  - FhirViewer
+- [Terraform Modules](https://github.com/orgs/philips-software/teams/terraform-modules-maintainers/repositories)
   - terraform-aws-account-setup
   - terraform-aws-bastion
   - terraform-aws-cloudfront-s3
@@ -36,6 +40,8 @@ Overview with groups of projects and its repositories
   - terraform-aws-efs
   - terraform-aws-rds
   - terraform-aws-vpc
-- Test Utilities - https://github.com/orgs/philips-software/teams/test-utilities/repositories
+- [Test Utilities](https://github.com/orgs/philips-software/teams/test-utilities/repositories)
   - Licenator
+- [TFS - Plugins](https://github.com/orgs/philips-software/teams/gherkin2mtm/repositories)
+  - gherkin2mtm
 
