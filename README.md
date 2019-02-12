@@ -5,43 +5,43 @@
 ## Purpose
 Overview with groups of projects and its repositories
 
-- [Digital Trust](https://github.com/orgs/philips-software/teams/digital-trust/repositories)
-  - Cogito
-- [Docker Images](https://github.com/orgs/philips-software/teams/docker-images/repositories)
-  - bats
-  - goss
-  - openjdk
-  - scala
-- [Documentation Templates](https://github.com/orgs/philips-software/teams/documentation-templates/repositories)
-  - docs-as-code
-- [Frontend Developer](https://github.com/orgs/philips-software/teams/frontend-developer/repositories)
-  - react-cross-client-router
-  - restdouble
-- [HSDP Utilities](https://github.com/orgs/philips-software/teams/hsdp-utilities/repositories)
-  - go-hsdp-api
-  - go-hsdp-signer
-  - terraform-provider-hsdp
-- [IAF](https://github.com/orgs/philips-software/teams/iaf/repositories)
-  - IAF
+- Digital Trust
+  - [Cogito](https://github.com/philips-software/cogito)
+- Docker Images
+  - [bats](https://github.com/philips-software/bats)
+  - [goss](https://github.com/philips-software/goss)
+  - [openjdk](https://github.com/philips-software/openjdk)
+  - [scala](https://github.com/philips-software/scala)
+- Documentation Templates
+  - [docs-as-code](https://github.com/philips-software/docs-as-code)
+- Frontend Developer
+  - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router)
+  - [restdouble](https://github.com/philips-software/restdouble)
+- HSDP Utilities
+  - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api)
+  - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer)
+  - [terraform-provider-hsdp](https://github.com/philips-software/terraform-provider-hsdp)
+- IAF
+  - [IAF](https://github.com/philips-software/iaf)
 - [Interoperability](https://github.com/PhilipsOnFhir)
-  - fhir-cast
-  - fhir-proxy
-  - fhir-2-angular
-  - Intellij-CQL-SyntaxHighlighter
-  - FhirViewer
-- [Terraform Modules](https://github.com/orgs/philips-software/teams/terraform-modules-maintainers/repositories)
-  - terraform-aws-account-setup
-  - terraform-aws-bastion
-  - terraform-aws-cloudfront-s3
-  - terraform-aws-cloudwatch
-  - terraform-aws-ecs
-  - terraform-aws-ecs-service
-  - terraform-aws-ecs-service-load-balancer
-  - terraform-aws-efs
-  - terraform-aws-rds
-  - terraform-aws-vpc
-- [Test Utilities](https://github.com/orgs/philips-software/teams/test-utilities/repositories)
-  - Licenator
-- [TFS - Plugins](https://github.com/orgs/philips-software/teams/gherkin2mtm/repositories)
-  - gherkin2mtm
+  - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast)
+  - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy)
+  - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular)
+  - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHighlighter)
+  - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer)
+- Terraform Modules
+  - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup)
+  - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion)
+  - [terraform-aws-cloudfront-s3](https://github.com/philips-software/terraform-aws-cloudfront-s3)
+  - [terraform-aws-cloudwatch](https://github.com/philips-software/terraform-aws-cloudwatch)
+  - [terraform-aws-ecs](https://github.com/philips-software/terraform-aws-ecs)
+  - [terraform-aws-ecs-service](https://github.com/philips-software/terraform-aws-ecs-service)
+  - [terraform-aws-ecs-service-load-balancer](https://github.com/philips-software/terraform-aws-load-balancer)
+  - [terraform-aws-efs](https://github.com/philips-software/terraform-aws-efs)
+  - [terraform-aws-rds](https://github.com/philips-software/terraform-aws-rds)
+  - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc)
+- Test Utilities
+  - [Licenator](https://github.com/philips-software/licenator)
+- TFS - Plugins
+  - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm)
 
