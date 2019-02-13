@@ -11,6 +11,7 @@ Overview with groups of projects and its repositories
   - [goss](https://github.com/philips-software/goss) - Goss docker setup
   - [openjdk](https://github.com/philips-software/openjdk) - OpenJDK docker setup
   - [scala](https://github.com/philips-software/scala) - Scala docker setup
+  - [docker-ci-scripts](https://github.com/philips-software/docker-ci-scripts) - Docker CI Scripts
 ## Documentation Templates
   - [docs-as-code](https://github.com/philips-software/docs-as-code) - Example project to demonstrate the use of Asciidoc to generate software documentation. Using Arc42,C4,ADR and integration with PlantUML
 ## Frontend Developer
@@ -30,7 +31,6 @@ Overview with groups of projects and its repositories
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
-
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
   - [terraform-aws-cloudfront-s3](https://github.com/philips-software/terraform-aws-cloudfront-s3) - Terraform module CloudFront Distribution for S3
   - [terraform-aws-cloudwatch](https://github.com/philips-software/terraform-aws-cloudwatch) - Terraform module to create an AWS Cloudwatch log group and config
