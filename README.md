@@ -2,34 +2,33 @@
 
 # Philips Software - Open Source
 
-## Purpose
 Overview with groups of projects and its repositories
 
-- Digital Trust
+## Digital Trust
   - [Cogito](https://github.com/philips-software/cogito)
-- Docker Images
+## Docker Images
   - [bats](https://github.com/philips-software/bats)
   - [goss](https://github.com/philips-software/goss)
   - [openjdk](https://github.com/philips-software/openjdk)
   - [scala](https://github.com/philips-software/scala)
-- Documentation Templates
+## Documentation Templates
   - [docs-as-code](https://github.com/philips-software/docs-as-code)
-- Frontend Developer
+## Frontend Developer
   - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router)
   - [restdouble](https://github.com/philips-software/restdouble)
-- HSDP Utilities
+## HSDP Utilities
   - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api)
   - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer)
   - [terraform-provider-hsdp](https://github.com/philips-software/terraform-provider-hsdp)
-- IAF
+## IAF
   - [IAF](https://github.com/philips-software/iaf)
-- [Interoperability](https://github.com/PhilipsOnFhir)
+## [Interoperability](https://github.com/PhilipsOnFhir)
   - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast)
   - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy)
   - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular)
   - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHighlighter)
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer)
-- Terraform Modules
+## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup)
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion)
   - [terraform-aws-cloudfront-s3](https://github.com/philips-software/terraform-aws-cloudfront-s3)
@@ -40,8 +39,11 @@ Overview with groups of projects and its repositories
   - [terraform-aws-efs](https://github.com/philips-software/terraform-aws-efs)
   - [terraform-aws-rds](https://github.com/philips-software/terraform-aws-rds)
   - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc)
-- Test Utilities
+## Test Utilities
   - [Licenator](https://github.com/philips-software/licenator)
-- TFS - Plugins
+## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm)
 
+If you have questions regarding the projects, see their issues boards, [email](mailto:philips-software@philips.com) or contact the teams on Slack.
+
+[![Slack](https://philips-software-slackin.now.sh/badge.svg)](https://philips-software-slackin.now.sh)
