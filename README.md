@@ -5,44 +5,46 @@
 Overview with groups of projects and its repositories
 
 ## Digital Trust
-  - [Cogito](https://github.com/philips-software/cogito)
+  - [Cogito](https://github.com/philips-software/cogito) - Cogito Identity Management
 ## Docker Images
-  - [bats](https://github.com/philips-software/bats)
-  - [goss](https://github.com/philips-software/goss)
-  - [openjdk](https://github.com/philips-software/openjdk)
-  - [scala](https://github.com/philips-software/scala)
+  - [bats](https://github.com/philips-software/bats) - Bats docker setup
+  - [goss](https://github.com/philips-software/goss) - Goss docker setup
+  - [openjdk](https://github.com/philips-software/openjdk) - OpenJDK docker setup
+  - [scala](https://github.com/philips-software/scala) - Scala docker setup
 ## Documentation Templates
-  - [docs-as-code](https://github.com/philips-software/docs-as-code)
+  - [docs-as-code](https://github.com/philips-software/docs-as-code) - Example project to demonstrate the use of Asciidoc to generate software documentation. Using Arc42,C4,ADR and integration with PlantUML
 ## Frontend Developer
-  - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router)
-  - [restdouble](https://github.com/philips-software/restdouble)
+  - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices.
+  - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping.
 ## HSDP Utilities
-  - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api)
-  - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer)
-  - [terraform-provider-hsdp](https://github.com/philips-software/terraform-provider-hsdp)
+  - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api) - A HSDP API client enabling Go programs to interact with various HSDP APIs in a simple and uniform way
+  - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer) - HSDP API signer for Go
+  - [terraform-provider-hsdp](https://github.com/philips-software/terraform-provider-hsdp) - Terraform provider to build/verify various HSDP resources
 ## IAF
-  - [IAF](https://github.com/philips-software/iaf)
+  - [IAF](https://github.com/philips-software/iaf) - Type-safe composition and transformation of data points
 ## [Interoperability](https://github.com/PhilipsOnFhir)
-  - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast)
-  - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy)
-  - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular)
+  - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast) - Java implementation of the FHIR Cast protocol
+  - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy) - Implementation of the FHIR bulk data specification as a proxy before an existing FHIR server.
+  - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them.
   - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHighlighter)
-  - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer)
+  - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
 ## Terraform Modules
-  - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup)
-  - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion)
-  - [terraform-aws-cloudfront-s3](https://github.com/philips-software/terraform-aws-cloudfront-s3)
-  - [terraform-aws-cloudwatch](https://github.com/philips-software/terraform-aws-cloudwatch)
-  - [terraform-aws-ecs](https://github.com/philips-software/terraform-aws-ecs)
-  - [terraform-aws-ecs-service](https://github.com/philips-software/terraform-aws-ecs-service)
-  - [terraform-aws-ecs-service-load-balancer](https://github.com/philips-software/terraform-aws-load-balancer)
-  - [terraform-aws-efs](https://github.com/philips-software/terraform-aws-efs)
-  - [terraform-aws-rds](https://github.com/philips-software/terraform-aws-rds)
-  - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc)
+  - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
+
+  - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
+  - [terraform-aws-cloudfront-s3](https://github.com/philips-software/terraform-aws-cloudfront-s3) - Terraform module CloudFront Distribution for S3
+  - [terraform-aws-cloudwatch](https://github.com/philips-software/terraform-aws-cloudwatch) - Terraform module to create an AWS Cloudwatch log group and config
+  - [terraform-aws-ecs](https://github.com/philips-software/terraform-aws-ecs) - Terraform module to create an AWS ECS cluster
+  - [terraform-aws-ecs-service](https://github.com/philips-software/terraform-aws-ecs-service) - Terraform module to create an AWS ECS service
+  - [terraform-aws-ecs-service-load-balancer](https://github.com/philips-software/terraform-aws-load-balancer) - Terraform module to create load balancers for ecs services
+  - [terraform-aws-efs](https://github.com/philips-software/terraform-aws-efs) - Terraform module to create an AWS elastic file system (EFS)
+  - [terraform-aws-rds](https://github.com/philips-software/terraform-aws-rds) - Terraform module to create an AWS RDS instance
+  - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc) - Terraform module to create an AWS VPC (public, or public and private)
 ## Test Utilities
-  - [Licenator](https://github.com/philips-software/licenator)
+  - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
 ## TFS - Plugins
-  - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm)
+  - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
+
 
 If you have questions regarding the projects, see their issues boards, [email](mailto:philips-software@philips.com) or contact the teams on Slack.
 
