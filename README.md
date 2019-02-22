@@ -29,6 +29,8 @@ Overview with groups of projects and its repositories
   - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them.
   - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHighlighter)
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
+## Odin
+  - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
