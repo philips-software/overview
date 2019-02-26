@@ -27,7 +27,7 @@ Overview with groups of projects and its repositories
   - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast) - Java implementation of the FHIR Cast protocol
   - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy) - Implementation of the FHIR bulk data specification as a proxy before an existing FHIR server.
   - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them.
-  - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHighlighter)
+  - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHiglighter)
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
 ## Odin
   - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
