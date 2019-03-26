@@ -9,6 +9,7 @@ Overview with groups of projects and its repositories
 ## Docker Images
   - [bats](https://github.com/philips-software/bats) - Bats docker setup
   - [goss](https://github.com/philips-software/goss) - Goss docker setup
+  - [node](https://github.com/philips-software/node) - Node docker setup
   - [openjdk](https://github.com/philips-software/openjdk) - OpenJDK docker setup
   - [scala](https://github.com/philips-software/scala) - Scala docker setup
   - [docker-ci-scripts](https://github.com/philips-software/docker-ci-scripts) - Docker CI Scripts
