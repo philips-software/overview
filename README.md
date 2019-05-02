@@ -22,6 +22,7 @@ Overview with groups of projects and its repositories
 ## Frontend Developer
   - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices.
   - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping.
+## [HSDP](https://github.com/hsdp)
 ## HSDP Utilities
   - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api) - A HSDP API client enabling Go programs to interact with various HSDP APIs in a simple and uniform way
   - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer) - HSDP API signer for Go
