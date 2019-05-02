@@ -50,6 +50,7 @@ Overview with groups of projects and its repositories
   - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc) - Terraform module to create an AWS VPC (public, or public and private)
 ## Test Utilities
   - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
+  - [NPM dependencies extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
 ## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
 
