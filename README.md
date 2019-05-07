@@ -27,6 +27,7 @@ Overview with groups of projects and its repositories
   - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api) - A HSDP API client enabling Go programs to interact with various HSDP APIs in a simple and uniform way
   - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer) - HSDP API signer for Go
   - [logproxy](https://github.com/philips-software/logproxy) - Logdrainer for HSDP Cloudfoundry which forwards log to HSDP Logging
+  - [powershell-cf-api](https://github.com/philips-software/powershell-cf-api) - PowerShell module can deploy and teardown CloudFoundry spaces and services via a json definition file
   - [terraform-provider-hsdp](https://github.com/philips-software/terraform-provider-hsdp) - Terraform provider to build/verify various HSDP resources
 ## IAF
   - [IAF](https://github.com/philips-software/iaf) - Type-safe composition and transformation of data points
