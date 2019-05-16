@@ -39,6 +39,10 @@ Overview with groups of projects and its repositories
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
 ## Odin
   - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
+## SmartSleep-Analyzer
+  - [SmartSleep-Analyzer-ClientLibs](https://github.com/philips-software/SmartSleep-Analyzer-ClientLibs)
+  - [SmartSleep-Analyzer-SampleApp-Android](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Android)
+  - [SmartSleep-Analyzer-SampleApp-Angular](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Angular)
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
