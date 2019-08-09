@@ -37,6 +37,8 @@ Overview with groups of projects and its repositories
   - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them.
   - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHiglighter)
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
+## IUS
+  - [ius-libiuf](https://github.com/philips-software/ius-libiuf) - IUF file IO library SDK
 ## Odin
   - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
 ## SmartSleep-Analyzer
