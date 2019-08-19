@@ -39,6 +39,8 @@ Overview with groups of projects and its repositories
   - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
 ## IUS
   - [ius-libiuf](https://github.com/philips-software/ius-libiuf) - IUF file IO library SDK
+## Log viewer
+  - [Analogy Log Viewer](https://github.com/philips-software/logviewer) - Analogy Log Viewer
 ## Odin
   - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
 ## SmartSleep-Analyzer
