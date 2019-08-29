@@ -6,6 +6,7 @@ Overview with groups of projects and its repositories
 
 ## Digital Trust
   - [Cogito](https://github.com/philips-software/cogito) - Cogito Identity Management
+  - [fresco-logistic-regression](https://github.com/philips-software/fresco-logistic-regression) - Logistic Regression prototype using FRESCO
   - [fresco-logistic-regression-2](https://github.com/philips-software/fresco-logistic-regression-2) - Logistic Regression in MPC using Fresco
 ## Docker Images
   - [bats](https://github.com/philips-software/bats) - Bats docker setup
