@@ -20,7 +20,7 @@ Overview with groups of projects and its repositories
 ## Documentation Templates
   - [docs-as-code](https://github.com/philips-software/docs-as-code) - Example project to demonstrate the use of Asciidoc to generate software documentation. Using Arc42,C4,ADR and integration with PlantUML
 ## EmbeddedInfraLib
-  - [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - EmIL
+  - [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - A set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
 ## Frontend Developer
   - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices.
   - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping.
