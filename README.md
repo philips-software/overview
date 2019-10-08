@@ -11,6 +11,7 @@ Overview with groups of projects and its repositories
   - [fresco-logistic-regression](https://github.com/philips-software/fresco-logistic-regression) - Logistic Regression prototype using FRESCO
   - [fresco-logistic-regression-2](https://github.com/philips-software/fresco-logistic-regression-2) - Logistic Regression in MPC using Fresco
 ## Docker Images
+  - [aws-ci](https://github.com/philips-software/docker-aws-ci) - CI images for AWS cli and kubectl.
   - [bats](https://github.com/philips-software/bats) - Bats docker setup
   - [blackduck](https://github.com/philips-software/blackduck) - Blackduck docker setup
   - [code-maat](https://github.com/philips-software/code-maat) - Code-maat docker setup
