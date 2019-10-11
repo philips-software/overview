@@ -16,7 +16,7 @@ Overview with groups of projects and its repositories
   - [blackduck](https://github.com/philips-software/docker-blackduck) - Blackduck docker setup
   - [code-maat](https://github.com/philips-software/docker-code-maat) - Code-maat docker setup
   - [goss](https://github.com/philips-software/docker-goss) - Goss docker setup
-  - [node](https://github.com/philips-software/node) - Node docker setup
+  - [node](https://github.com/philips-software/docker-node) - Node docker setup
   - [openjdk](https://github.com/philips-software/docker-openjdk) - OpenJDK docker setup
   - [scala](https://github.com/philips-software/docker-scala) - Scala docker setup
   - [docker-ci-scripts](https://github.com/philips-software/docker-ci-scripts) - Docker CI Scripts
