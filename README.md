@@ -13,8 +13,8 @@ Overview with groups of projects and its repositories
 ## Docker Images
   - [aws-ci](https://github.com/philips-software/docker-aws-ci) - CI images for AWS cli and kubectl.
   - [bats](https://github.com/philips-software/bats) - Bats docker setup
-  - [blackduck](https://github.com/philips-software/blackduck) - Blackduck docker setup
-  - [code-maat](https://github.com/philips-software/code-maat) - Code-maat docker setup
+  - [blackduck](https://github.com/philips-software/docker-blackduck) - Blackduck docker setup
+  - [code-maat](https://github.com/philips-software/docker-code-maat) - Code-maat docker setup
   - [goss](https://github.com/philips-software/goss) - Goss docker setup
   - [node](https://github.com/philips-software/node) - Node docker setup
   - [openjdk](https://github.com/philips-software/openjdk) - OpenJDK docker setup
