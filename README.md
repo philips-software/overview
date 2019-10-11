@@ -55,6 +55,7 @@ Overview with groups of projects and its repositories
   - [SmartSleep-Analyzer-SampleApp-Android](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Android)
   - [SmartSleep-Analyzer-SampleApp-Angular](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Angular)
 ## Software Bill of Material
+  - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
   - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
@@ -69,11 +70,9 @@ Overview with groups of projects and its repositories
   - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc) - Terraform module to create an AWS VPC (public, or public and private)
 ## Test Utilities
   - [Dir Uploader](https://github.com/philips-software/dir-uploader) - npm tool to upload directories / files to a REST endpoint.
-  - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
   - [protractor-junit-xml-plugin](https://github.com/philips-software/protractor-junit-xml-plugin) - Reporter for the JUnit XRAY XML format.
 ## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
-
 
 If you have questions regarding the projects, see their issues boards, [email](mailto:philips-software@philips.com) or contact the teams on Slack.
 
