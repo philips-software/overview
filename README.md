@@ -6,8 +6,6 @@ Overview with groups of projects and its repositories
 
 ## Audio
   - [Unity Native Audio Plugins](https://github.com/philips-software/unity-nativeaudioplugins) - Unity Native Audio Plugins
-## Automating software Bill Of Material extraction
-  - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
 ## Digital Trust
   - [Cogito](https://github.com/philips-software/cogito) - Cogito Identity Management
   - [fresco-logistic-regression](https://github.com/philips-software/fresco-logistic-regression) - Logistic Regression prototype using FRESCO
@@ -56,6 +54,8 @@ Overview with groups of projects and its repositories
   - [SmartSleep-Analyzer-ClientLibs](https://github.com/philips-software/SmartSleep-Analyzer-ClientLibs)
   - [SmartSleep-Analyzer-SampleApp-Android](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Android)
   - [SmartSleep-Analyzer-SampleApp-Angular](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Angular)
+## Software Bill of Material
+  - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
