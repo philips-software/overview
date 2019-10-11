@@ -6,6 +6,8 @@ Overview with groups of projects and its repositories
 
 ## Audio
   - [Unity Native Audio Plugins](https://github.com/philips-software/unity-nativeaudioplugins) - Unity Native Audio Plugins
+## Automating software Bill Of Material extraction
+  - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
 ## Digital Trust
   - [Cogito](https://github.com/philips-software/cogito) - Cogito Identity Management
   - [fresco-logistic-regression](https://github.com/philips-software/fresco-logistic-regression) - Logistic Regression prototype using FRESCO
@@ -68,7 +70,6 @@ Overview with groups of projects and its repositories
 ## Test Utilities
   - [Dir Uploader](https://github.com/philips-software/dir-uploader) - npm tool to upload directories / files to a REST endpoint.
   - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
-  - [NPM dependencies extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
   - [protractor-junit-xml-plugin](https://github.com/philips-software/protractor-junit-xml-plugin) - Reporter for the JUnit XRAY XML format.
 ## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
