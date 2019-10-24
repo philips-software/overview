@@ -23,10 +23,10 @@ Overview with groups of projects and its repositories
 ## Documentation Templates
   - [docs-as-code](https://github.com/philips-software/docs-as-code) - Example project to demonstrate the use of Asciidoc to generate software documentation. Using Arc42,C4,ADR and integration with PlantUML
 ## EmbeddedInfraLib
-  - [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - A set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development.
+  - [EmbeddedInfraLib](https://github.com/philips-software/embeddedinfralib) - A set of C++ libraries and headers that provide heap-less, STL like, infrastructure for embedded software development
 ## Frontend Developer
-  - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices.
-  - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping.
+  - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices
+  - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping
 ##  GraphQL demo
   - [philips-eoi-graphql](https://github.com/philips-software/philips-eoi-graphql) - GraphQL usage, queries and demo app using postgresql with react
 ## [HSDP](https://github.com/hsdp)
@@ -41,23 +41,24 @@ Overview with groups of projects and its repositories
   - [IAF](https://github.com/philips-software/iaf) - Type-safe composition and transformation of data points
 ## [Interoperability](https://github.com/PhilipsOnFhir)
   - [fhir-cast](https://github.com/PhilipsOnFhir/fhir-cast) - Java implementation of the FHIR Cast protocol
-  - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy) - Implementation of the FHIR bulk data specification as a proxy before an existing FHIR server.
-  - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them.
+  - [fhir-proxy](https://github.com/PhilipsOnFhir/fhir-proxy) - Implementation of the FHIR bulk data specification as a proxy before an existing FHIR server
+  - [fhir-2-angular](https://github.com/PhilipsOnFhir/fhir-2-angular) - Java tool that reads the FHIR resource definition files and generates angular components for each of them
   - [Intellij-CQL-SyntaxHighlighter](https://github.com/PhilipsOnFhir/Intellij-CQL-SyntaxHiglighter)
-  - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning.
+  - [FhirViewer](https://github.com/PhilipsOnFhir/FhirViewer) - Angular 5 application to view and interact with FHIR servers. Supports Bulk Data and Clinical Reasoning
 ## IUS
   - [ius-libiuf](https://github.com/philips-software/ius-libiuf) - IUF file IO library SDK
 ## Log viewer
   - [Analogy Log Viewer](https://github.com/philips-software/logviewer) - Analogy Log Viewer
 ## Odin
-  - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript.
+  - [Odin](https://github.com/philips-software/odin) - ODIN is a Dependency Injection library in JavaScript
 ## SmartSleep-Analyzer
   - [SmartSleep-Analyzer-ClientLibs](https://github.com/philips-software/SmartSleep-Analyzer-ClientLibs)
   - [SmartSleep-Analyzer-SampleApp-Android](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Android)
   - [SmartSleep-Analyzer-SampleApp-Angular](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Angular)
 ## Software Bill of Material
-  - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages.
-  - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager.
+  - [compare-json-arrays-in-files](https://github.com/philips-software/compare-json-arrays-in-files) - Compare json arrays in files
+  - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages
+  - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
@@ -70,8 +71,8 @@ Overview with groups of projects and its repositories
   - [terraform-aws-rds](https://github.com/philips-software/terraform-aws-rds) - Terraform module to create an AWS RDS instance
   - [terraform-aws-vpc](https://github.com/philips-software/terraform-aws-vpc) - Terraform module to create an AWS VPC (public, or public and private)
 ## Test Utilities
-  - [Dir Uploader](https://github.com/philips-software/dir-uploader) - npm tool to upload directories / files to a REST endpoint.
-  - [protractor-junit-xml-plugin](https://github.com/philips-software/protractor-junit-xml-plugin) - Reporter for the JUnit XRAY XML format.
+  - [Dir Uploader](https://github.com/philips-software/dir-uploader) - npm tool to upload directories / files to a REST endpoint
+  - [protractor-junit-xml-plugin](https://github.com/philips-software/protractor-junit-xml-plugin) - Reporter for the JUnit XRAY XML format
 ## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
 
