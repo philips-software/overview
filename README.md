@@ -31,6 +31,7 @@ Overview with groups of projects and its repositories
   - [philips-eoi-graphql](https://github.com/philips-software/philips-eoi-graphql) - GraphQL usage, queries and demo app using postgresql with react
 ## [HSDP](https://github.com/hsdp)
 ## HSDP Utilities
+  - [cf-vault](https://github.com/philips-software/cf-vault) - Run your own vault instance in CF
   - [go-hsdp-api](https://github.com/philips-software/go-hsdp-api) - A HSDP API client enabling Go programs to interact with various HSDP APIs in a simple and uniform way
   - [go-hsdp-signer](https://github.com/philips-software/go-hsdp-signer) - HSDP API signer for Go
   - [logproxy](https://github.com/philips-software/logproxy) - Logdrainer for HSDP Cloudfoundry which forwards log to HSDP Logging
