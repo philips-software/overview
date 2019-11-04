@@ -56,6 +56,7 @@ Overview with groups of projects and its repositories
   - [SmartSleep-Analyzer-SampleApp-Android](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Android)
   - [SmartSleep-Analyzer-SampleApp-Angular](https://github.com/philips-software/SmartSleep-Analyzer-SampleApp-Angular)
 ## Software Bill of Material
+  - [blackduck-dependencies-to-reference-format](https://github.com/philips-software/blackduck-dependencies-to-reference-format) - Extracts dependencies from the output of tool detect from BlackDuck (Synopsis), to a reference format.
   - [compare-json-arrays-in-files](https://github.com/philips-software/compare-json-arrays-in-files) - Compare json arrays in files
   - [ct2r](https://github.com/philips-software/ct2r) - Convert Tool Output to Reference Output
   - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages
