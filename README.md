@@ -29,8 +29,6 @@ Overview with groups of projects and its repositories
 ## Frontend Developer
   - [react-cross-client-router](https://github.com/philips-software/react-cross-client-router) - A tool to control React apps spanning multiple tabs, windows or devices
   - [restdouble](https://github.com/philips-software/restdouble) - Run a fake REST service to use as a test double or as a backend for rapid frontend prototyping
-##  GraphQL demo
-  - [philips-eoi-graphql](https://github.com/philips-software/philips-eoi-graphql) - GraphQL usage, queries and demo app using postgresql with react
 ## [HSDP](https://github.com/hsdp)
 ## HSDP Utilities
   - [cf-vault](https://github.com/philips-software/cf-vault) - Run your own vault instance in CF
@@ -79,6 +77,8 @@ Overview with groups of projects and its repositories
   - [protractor-junit-xml-plugin](https://github.com/philips-software/protractor-junit-xml-plugin) - Reporter for the JUnit XRAY XML format
 ## TFS - Plugins
   - [gherkin2mtm](https://github.com/philips-software/gherkin2mtm) - Gherkins available in MTM
+## Tutorial / Demo
+  - [philips-eoi-graphql](https://github.com/philips-software/philips-eoi-graphql) - GraphQL usage, queries and demo app using postgresql with react
 
 If you have questions regarding the projects, see their issues boards, [email](mailto:philips-software@philips.com) or contact the teams on Slack.
 
