@@ -21,6 +21,7 @@ Overview with groups of projects and its repositories
   - [node](https://github.com/philips-software/docker-node) - Node docker setup
   - [openjdk](https://github.com/philips-software/docker-openjdk) - OpenJDK docker setup
   - [scala](https://github.com/philips-software/docker-scala) - Scala docker setup
+  - [whitesource](https://github.com/philips-software/docker-whitesource) - Whitesource docker setup
   - [docker-ci-scripts](https://github.com/philips-software/docker-ci-scripts) - Docker CI Scripts
 ## Documentation Templates
   - [docs-as-code](https://github.com/philips-software/docs-as-code) - Example project to demonstrate the use of Asciidoc to generate software documentation. Using Arc42,C4,ADR and integration with PlantUML
