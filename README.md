@@ -63,6 +63,7 @@ Overview with groups of projects and its repositories
   - [ct2r](https://github.com/philips-software/ct2r) - Convert Tool Output to Reference Output
   - [Licenator](https://github.com/philips-software/licenator) - Commandline tool to automatically gather the license information for all your NuGet packages
   - [NPM-dependencies-extractor](https://github.com/philips-software/npm-dependencies-extractor) - Retrieves the (flat) list of package dependencies for a Javascript project using the npm package manager
+  - [whitesource-dependencies-to-reference-format](https://github.com/philips-software/whitesource-dependencies-to-reference-format) - Extracts dependencies from the inventory report json artifact of tool Whitesource.
 ## Terraform Modules
   - [terraform-aws-account-setup](https://github.com/philips-software/terraform-aws-account-setup) - Terraform module configure IAM in a new AWS account setup
   - [terraform-aws-bastion](https://github.com/philips-software/terraform-aws-bastion) - Terraform module to create an AWS bastion host
