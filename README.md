@@ -85,4 +85,4 @@ You can also go here: [https://philips-software.github.io/teams](https://philips
 
 If you have questions regarding the projects, see their issues boards, [email](mailto:philips-software@philips.com) or contact the teams on Slack.
 
-[![Slack](https://philips-software-slackin.now.sh/badge.svg)](https://philips-software-slackin.now.sh)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/philips-software/shared_invite/zt-xecw65v5-i1531hGP~mdVwgxLFx7ckg)
